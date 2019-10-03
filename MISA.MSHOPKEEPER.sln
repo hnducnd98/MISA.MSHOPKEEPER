@@ -1,0 +1,70 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MISA.MSHOPKEEPER", "MISA.MSHOPKEEPER\MISA.MSHOPKEEPER.csproj", "{6FE0976D-CC70-4F88-9CBF-D444DFB06354}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MISA.BL", "MISA.BL\MISA.BL.csproj", "{D0C8CEED-0590-4DD4-B239-99D9FB54C8BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MISA.DL", "MISA.DL\MISA.DL.csproj", "{99C8A1A5-908D-4CD5-B8E4-4C47D93A253F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MISA.Entities", "MISA.Entities\MISA.Entities.csproj", "{B9C0132A-315E-48B3-8740-20722C0A692D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MISA.Common", "MISA.Common\MISA.Common.csproj", "{FCD66D87-165A-45B4-9271-F635AC99BD7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FE0976D-CC70-4F88-9CBF-D444DFB06354}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FE0976D-CC70-4F88-9CBF-D444DFB06354}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FE0976D-CC70-4F88-9CBF-D444DFB06354}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FE0976D-CC70-4F88-9CBF-D444DFB06354}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0C8CEED-0590-4DD4-B239-99D9FB54C8BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0C8CEED-0590-4DD4-B239-99D9FB54C8BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0C8CEED-0590-4DD4-B239-99D9FB54C8BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0C8CEED-0590-4DD4-B239-99D9FB54C8BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99C8A1A5-908D-4CD5-B8E4-4C47D93A253F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99C8A1A5-908D-4CD5-B8E4-4C47D93A253F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99C8A1A5-908D-4CD5-B8E4-4C47D93A253F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99C8A1A5-908D-4CD5-B8E4-4C47D93A253F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9C0132A-315E-48B3-8740-20722C0A692D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9C0132A-315E-48B3-8740-20722C0A692D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9C0132A-315E-48B3-8740-20722C0A692D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9C0132A-315E-48B3-8740-20722C0A692D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCD66D87-165A-45B4-9271-F635AC99BD7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCD66D87-165A-45B4-9271-F635AC99BD7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCD66D87-165A-45B4-9271-F635AC99BD7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCD66D87-165A-45B4-9271-F635AC99BD7C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67E61091-F8B8-4DD8-A6F2-44935EADD94C}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 6
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://dev.azure.com/hnducnd98
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = MISA.MSHOPKEEPER\\MISA.MSHOPKEEPER.csproj
+		SccProjectName1 = MISA.MSHOPKEEPER
+		SccLocalPath1 = MISA.MSHOPKEEPER
+		SccProjectUniqueName2 = MISA.BL\\MISA.BL.csproj
+		SccProjectName2 = MISA.BL
+		SccLocalPath2 = MISA.BL
+		SccProjectUniqueName3 = MISA.DL\\MISA.DL.csproj
+		SccProjectName3 = MISA.DL
+		SccLocalPath3 = MISA.DL
+		SccProjectUniqueName4 = MISA.Entities\\MISA.Entities.csproj
+		SccProjectName4 = MISA.Entities
+		SccLocalPath4 = MISA.Entities
+		SccProjectUniqueName5 = MISA.Common\\MISA.Common.csproj
+		SccProjectName5 = MISA.Common
+		SccLocalPath5 = MISA.Common
+	EndGlobalSection
+EndGlobal
